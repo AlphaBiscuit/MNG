@@ -6,21 +6,11 @@
   "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2Flycoris-recoil-creator-asaura-started-an-original-sci-fi-v0-aLVA4b9G600LCJBBbEmNamkrF09293U8DBYNa8GQv_s.jpg%3Fauto%3Dwebp%26s%3Dc227306f7348d9defe1206011a9da8e7e3b957ba&f=1&nofb=1&ipt=56229c228b82e3b5680534691f120f1e9ad0de4cb8ef9ec6329a650157e03758",
   "chapters": {
     "41": {
-      "title": "Sample Test 41 File",
+      "title": "Chapter 41",
       "volume": "5",
       "last_updated": "1747753009",
       "groups": {
         "Kakeru Scans": "/proxy/api/catbox/chapter/90u7ns"
-      }
-    },
-    "42": {
-      "title": "42",
-      "volume": "5",
-      "last_updated": "1747761284",
-      "groups": {
-        "Kakeru Scans": [
-          ""
-        ]
       }
     }
   }
