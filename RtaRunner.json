@@ -5,8 +5,16 @@
   "author": "Koide Yoshito",
   "cover": "",
   "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "last_updated": "1747824163",
+      "groups": {
+        "FML Translations": "proxy/api/catbox/chapter/5lq9le"
+      }
+    },
     "18.5": {
-      "title": "18.5",
+      "title": "Volume 4 Extras",
       "volume": "4",
       "last_updated": "1746293422",
       "groups": {
