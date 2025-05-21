@@ -10,13 +10,23 @@
       "volume": "1",
       "last_updated": "1747824163",
       "groups": {
-        "FML Translations": "proxy/api/catbox/chapter/5lq9le"
+        "FML Translations": "/proxy/api/catbox/chapter/5lq9le"
       }
     },
     "18.5": {
       "title": "Volume 4 Extras",
       "volume": "4",
       "last_updated": "1746293422",
+      "groups": {
+        "Kakeru Scans": [
+          ""
+        ]
+      }
+    },
+    "19.5": {
+      "title": "19.5",
+      "volume": "4",
+      "last_updated": "1747824380",
       "groups": {
         "Kakeru Scans": [
           ""
