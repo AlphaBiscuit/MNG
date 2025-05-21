@@ -28,6 +28,14 @@
       "groups": {
         "Shishijou": "/proxy/api/catbox/chapter/2a5foq"
       }
+    },
+    "18.5": {
+      "title": "Volume 4 Extras",
+      "volume": "4",
+      "last_updated": "1744545732",
+      "groups": {
+        "Shishijou": "/proxy/api/catbox/chapter/inn4rw"
+      }
     }
   }
 }
