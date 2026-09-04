@@ -440,6 +440,31 @@
         ]
       }
     },
+    "64": {
+      "title": "64",
+      "volume": "6",
+      "last_updated": "1788523802",
+      "groups": {
+        "Kakeru Scans": [
+          "https://files.catbox.moe/bnnzg7.png",
+          "https://files.catbox.moe/fsvh6q.png",
+          "https://files.catbox.moe/hkl9dg.png",
+          "https://files.catbox.moe/ey2jag.png",
+          "https://files.catbox.moe/hwa369.png",
+          "https://files.catbox.moe/g1vum5.png",
+          "https://files.catbox.moe/3cf2u1.png",
+          "https://files.catbox.moe/gn3g52.png",
+          "https://files.catbox.moe/ob62y1.png",
+          "https://files.catbox.moe/lof7ms.png",
+          "https://files.catbox.moe/sad2rl.png",
+          "https://files.catbox.moe/v1siw0.png",
+          "https://files.catbox.moe/xzxdkh.png",
+          "https://files.catbox.moe/75lw82.png",
+          "https://files.catbox.moe/4p1pra.png",
+          "https://files.catbox.moe/ucb23q.png"
+        ]
+      }
+    },
     "46.5": {
       "title": "46.5",
       "volume": "5",
@@ -639,6 +664,18 @@
           "https://files.catbox.moe/zcqqqo.png",
           "https://files.catbox.moe/i2wtor.png",
           "https://files.catbox.moe/ot0vl2.png"
+        ]
+      }
+    },
+    "63.5": {
+      "title": "63.5",
+      "volume": "6",
+      "last_updated": "1788523781",
+      "groups": {
+        "Kakeru Scans": [
+          "https://files.catbox.moe/3hvv7s.png",
+          "https://files.catbox.moe/4a7a0n.png",
+          "https://files.catbox.moe/50lawl.png"
         ]
       }
     }
